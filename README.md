@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Rich Robertson</h1>
-<h3 align="center">husband, father, Christian, software developer in Northern Michigan</h3>
+<h3 align="center">husband, father, and software developer in Northern Michigan</h3>
 
 - 🔭 I’m currently working on **Bible App**
 
